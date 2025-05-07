@@ -1,0 +1,87 @@
+.logo{
+    background: #ADD8E6;
+    height: 10vw;
+}
+.dashboard{
+    background: #1A2B47;
+    height: 36vw;
+    padding-left: 2vw;
+}
+.fa{
+    color:rgb(133, 46, 133);
+}
+.person{
+    color:#C6C4D4;
+    background:#FFFFFF;
+}
+.row{
+    background: #F8F9FA;
+}
+.navbar{
+    border-bottom: 2px solid orange ;
+}
+h5,.card-title{
+    display: flex;
+    justify-content: center;
+    margin-top: 3px;
+}
+.card{
+  width: 13vw;
+}
+.bottom{
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid black;
+    margin-top: 25vw;
+}
+.bottom1{
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid black;
+}
+.head{
+    margin-top: 20px;
+}
+.search{
+    margin-left: 44vw;
+}
+.search1{
+    margin-left: 39vw;
+}
+.search2{
+    margin-left: 50vw;
+}
+input{
+    border-radius: 1px;
+    background: #F8F9FA;
+}
+.form_top{
+    display: flex;
+    align-items: center;
+    gap: 60px;   
+}
+.form_result{
+    display: flex;
+    align-items: center;
+    gap: 60px; 
+}
+.select_allocation{
+    width: 100px;
+}
+.search4{
+    margin-left: 45vw;
+}
+.top{
+     display: flex;
+     justify-content: space-between;  
+}
+.middle{
+    display: flex;
+    justify-content: flex-start;
+}
+.middle1{
+    display: flex;
+    justify-content: space-between;
+}
+
+

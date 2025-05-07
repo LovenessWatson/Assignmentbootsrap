@@ -1,85 +1,19 @@
-.card-body{
-    color: white;
-    background-color: rgba(0, 0, 0, 0.859);
-    border-color:rgba(0, 0, 0, 0.859) ;
-}
 .Container{
     display: flex;
     justify-content: center;
-    background-color: #114165;
-    height: 600px;
+    align-items: center;
+    background: #104567;
+    height: 47vw;
 }
-h4{
-    padding-top: 40px;
-}
-.card{
-    width: 400px;
-    height: 350px;
-    margin-top: 9%;
-}
-a{
-    color:green;
-}
-.logo{
-    background-color:#d3f3f7;
-    height: 80pt;
-   
-}
-.icons{
-    background-color: #0b3657;
-    color: white;
-    height: 360pt;
-    
-}
-.row,.logo{
-    display: flex;
-    flex-direction: row;
-}
-.navbar {
-    background-color: #ffffff;
-    border-bottom: 3px solid orange;
-  }
 
-  .Dashboard-cards .card ,.card-space{
-    text-align: center;
-    height: 80px;
-    width: 120px;
-  }
-  .card-title{
-    font-size: small;
-  }
-  .card-text{
-    color: #80bbea;
-    font-size: medium;
-  }
-   
-  footer{
-    text-align: center;
-    margin-top: 300px;
-    border-top: 1px solid black;
-  }
-  .btn-add {
-    background-color: #28a745;
-    color: white;
-  }
-  .btn-export{
-    border: 1px solid black;
-  }
-  .btn-search{
-    border: 1px solid black;
-    width: 80pt;
-    height: 20pt;
-  }
-  .sach{
-    padding-left: 600px;
-  }
-  .manage{
-    border-top: 1px solid black;
-    margin-top: 150px;
-    text-align: center;
-  }
-  .form{
-    padding-left: 100px;
-  }
- 
-  
+.right-box{
+    background:#F8F9FB;
+}
+.featured-image{
+    padding-left: 5vw;
+}
+.row{
+    height: 30vw;
+    width: 60vw;
+}
+
